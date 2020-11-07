@@ -1,0 +1,11 @@
+users
+  secret_word
+    id
+    game_state
+    player_count
+    player_rank
+    cars_at_end
+    players
+      playerIndex
+        name
+        distance

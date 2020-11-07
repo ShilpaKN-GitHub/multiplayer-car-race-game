@@ -1,2 +1,2 @@
-# multiplayer-car-race-game
-trial class multiplayer car race game
+# p5-multiplayer-car-race-game
+Multiplayer car race game using p5.js
